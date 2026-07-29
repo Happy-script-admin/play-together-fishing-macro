@@ -57,8 +57,9 @@ pip install customtkinter mss keyboard opencv-python numpy pillow
 Dự án này được phân phối dưới giấy phép mã nguồn mở phục vụ cho mục đích học tập và nghiên cứu kỹ thuật (afk farm là chính😉).
 
 ## 📥 Downloads
-**Python file:**
-[![Download .py](https://img.shields.io/badge/Download-.py-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://raw.githubusercontent.com/Happy-script-admin/play-together-fishing-macro/refs/heads/main/AutoFishing.py)
 
-**EXE file:**
+**Python file (.zip):**
+[![Download .py](https://img.shields.io/badge/Download-.py-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://raw.githubusercontent.com/Happy-script-admin/play-together-fishing-macro/main/AutoFishing.zip)
+
+**EXE file (.zip):**
 [![Download .exe](https://img.shields.io/badge/Download-.exe-Red?style=for-the-badge&logo=mega&logoColor=white)](https://mega.nz/file/CYkCyTBJ#G5E7nKKcMnPYxKaEcmDcs5DqwPs_vwnEoM_MTgYtcxk)
