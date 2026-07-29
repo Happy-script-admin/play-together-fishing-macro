@@ -58,7 +58,7 @@ Dự án này được phân phối dưới giấy phép mã nguồn mở phục
 
 ## 📥 Downloads
 **Python file:**
-[![Download .py](https://img.shields.io/badge/Download-.py-3776AB?style=for-the-badge&logo=python&logoColor=white)]([LINK_RAW_GITHUB_FILE_PY](https://raw.githubusercontent.com/Happy-script-admin/play-together-fishing-macro/refs/heads/main/AutoFishing.py))
+[![Download .py](https://img.shields.io/badge/Download-.py-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://raw.githubusercontent.com/Happy-script-admin/play-together-fishing-macro/refs/heads/main/AutoFishing.py)
 
 **EXE file:**
-[![Download .exe](https://img.shields.io/badge/Download-.exe-Red?style=for-the-badge&logo=mega&logoColor=white)]([LINK_MEGA_FILE_EXE](https://mega.nz/file/CYkCyTBJ#G5E7nKKcMnPYxKaEcmDcs5DqwPs_vwnEoM_MTgYtcxk))
+[![Download .exe](https://img.shields.io/badge/Download-.exe-Red?style=for-the-badge&logo=mega&logoColor=white)](https://mega.nz/file/CYkCyTBJ#G5E7nKKcMnPYxKaEcmDcs5DqwPs_vwnEoM_MTgYtcxk)
