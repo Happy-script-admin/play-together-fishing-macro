@@ -26,3 +26,31 @@
 Đảm bảo máy tính đã cài đặt Python, sau đó cài đặt các thư viện phụ thuộc bằng lệnh:
 ```bash
 pip install customtkinter mss keyboard opencv-python numpy pillow
+
+### 3. Các bước thiết lập trong ứng dụng
+1. **Vùng Check Cá:** Bấm nút `1. Vùng Check Cá`, sau đó kéo chuột quét vùng ở trên đầu phao, đúng vị trí mà dấu chấm than (`!`) sẽ xuất hiện khi cá cắn câu.
+2. **Vùng Avatar:** Bấm nút `2. Vùng Avatar`, khoét ô ôm sát vào trong khu vực Avatar của nhân vật (tránh quét tràn ra ngoài hoặc trúng nền động).
+3. **Chạy Bot:** Bấm nút `START` hoặc nhấn phím **`F4`** để bắt đầu quá trình tự động hóa.
+
+---
+
+## ⚠️ Lưu Ý Cực Kỳ Quan Trọng Khi Vận Hành (Rất Quan Trọng)
+
+Để bot hoạt động chính xác và không bị lỗi nhịp, bạn bắt buộc phải tuân thủ các nguyên tắc sau trong suốt quá trình chạy (running):
+
+* **Thiết lập Vùng Chọn (Selection):**
+  * **Vùng Avatar (2. Vùng Avatar):** Yêu cầu quét ôm sát vào trong khu vực Avatar của nhân vật, tuyệt đối không quét tràn ra ngoài hoặc trúng các phần nền/chi tiết có thể thay đổi pixel động (như hiệu ứng xung quanh, chuyển động nền) dẫn đến sai lệch nhận diện.  
+  * **Vùng Check Cá (1. Vùng Check Cá):** Yêu cầu quét vùng ở trên đầu phao, đúng vị trí mà dấu chấm than (`!`) sẽ xuất hiện khi cá cắn câu.
+* **Không di chuyển Camera:** Trong suốt quá trình bot chạy, tuyệt đối không xoay hay di chuyển góc nhìn camera nếu chưa hiểu rõ logic hoạt động của macro, tránh việc hệ thống nhận diện nhầm trạng thái cá cắn câu.
+* **Cố định cửa sổ game:** Không kéo dịch chuyển hoặc thu nhỏ/phóng to cửa sổ game Play Together để tránh làm lệch khung hình (frame) quét tọa độ đã thiết lập.
+* **Giữ tập trung ở cửa sổ game:** Bot sẽ tự động giả lập phím bấm (`Space` và phím `F`) để thực hiện toàn bộ quy trình thả cần, đợi cá và giật cần. Do đó, bạn phải giữ con trỏ/cửa sổ game ở trạng thái hoạt động trong suốt quá trình bot chạy.
+
+---
+
+## ⌨️ Phím Tắt Hệ Thống
+* **`F4`**: Bật (`START`) hoặc Tắt (`STOP`) nhanh bot.
+
+---
+
+## 📄 License
+Dự án này được phân phối dưới giấy phép mã nguồn mở phục vụ cho mục đích học tập và nghiên cứu kỹ thuật.
