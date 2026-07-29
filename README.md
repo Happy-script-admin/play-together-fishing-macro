@@ -29,7 +29,7 @@ pip install customtkinter mss keyboard opencv-python numpy pillow
 ```
 
 ### 3. Các bước thiết lập trong ứng dụng
-1. **Vùng Check Cá:** Bấm nút `1. Vùng Check Cá`, sau đó kéo chuột quét vùng ở trên đầu phao, đúng vị trí mà dấu chấm than (`!`) sẽ xuất hiện khi cá cắn câu.
+1. **Vùng Check Cá:** Bấm nút `1. Vùng Check Cá`, sau đó kéo chuột quét vùng ở trên đầu nhân vật, đúng vị trí mà dấu chấm than (`!`) sẽ xuất hiện khi cá cắn câu (frame quét càng nhỏ thì càng chuẩn vì frame chỉ quét thay đổi pixel trên 20%).
 2. **Vùng Avatar:** Bấm nút `2. Vùng Avatar`, khoét ô ôm sát vào trong khu vực Avatar của nhân vật (tránh quét tràn ra ngoài hoặc trúng nền động).
 3. **Chạy Bot:** Bấm nút `START` hoặc nhấn phím **`F4`** để bắt đầu quá trình tự động hóa.
 
