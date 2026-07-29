@@ -33,6 +33,7 @@ pip install customtkinter mss keyboard opencv-python numpy pillow
 2. **Vùng Avatar:** Bấm nút `2. Vùng Avatar`, khoét ô ôm sát vào trong khu vực Avatar của nhân vật (tránh quét tràn ra ngoài hoặc trúng nền động).
 3. **Chạy Bot:** Bấm nút `START` hoặc nhấn phím **`F4`** để bắt đầu quá trình tự động hóa (yêu cầu cầm sẵn cần câu và ở thế chưa thả cần).
 
+<video src="Guide.mp4" width="100%" controls></video>
 ---
 
 ## ⚠️ Lưu Ý Cực Kỳ Quan Trọng Khi Vận Hành (Rất Quan Trọng)
