@@ -26,6 +26,7 @@
 Đảm bảo máy tính đã cài đặt Python, sau đó cài đặt các thư viện phụ thuộc bằng lệnh:
 ```bash
 pip install customtkinter mss keyboard opencv-python numpy pillow
+```
 
 ### 3. Các bước thiết lập trong ứng dụng
 1. **Vùng Check Cá:** Bấm nút `1. Vùng Check Cá`, sau đó kéo chuột quét vùng ở trên đầu phao, đúng vị trí mà dấu chấm than (`!`) sẽ xuất hiện khi cá cắn câu.
