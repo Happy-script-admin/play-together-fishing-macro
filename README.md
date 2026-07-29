@@ -1,6 +1,6 @@
 # 🎣 Auto Fishing Macro (Play Together)
 
-Ứng dụng tự động hóa câu cá (Auto Fishing Bot) dành cho tựa game **Play Together** (phiên bản PC/Steam), được xây dựng bằng **Python** kết hợp với thư viện xử lý ảnh **OpenCV** và giao diện hiện đại **CustomTkinter**.
+Ứng dụng tự động hóa câu cá (Auto Fishing Bot) dành cho tựa game **Play Together** (phiên bản PC/Steam), được xây dựng bằng **Python** kết hợp với thư viện xử lý ảnh **OpenCV**.
 
 ---
 
